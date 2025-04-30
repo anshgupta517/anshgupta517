@@ -3,6 +3,9 @@
 
 - 📫 How to reach me **anshgupta51713@gmail.com**
 - My Website: <a href="https://portfolio-ansh-guptas-projects-93977b3a.vercel.app/"> Link </a>
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Ansh;+Passionate+about+clean+code%2C+performance+optimization%2C+and+design+patterns.)](https://git.io/typing-svg)
 
 <center><h4> Continuously learning and applying best practices to design and develop scalable, maintainable software solutions.</h4> </center>
