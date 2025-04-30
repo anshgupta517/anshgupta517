@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ansh Gupta</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=600&lines=Hi%2C+I+am+Ansh;Passionate+about+clean+code%2C+;performance+optimization%2C+and+design+patterns.)](https://git.io/typing-svg)
 
 
 - 📫 How to reach me **anshgupta51713@gmail.com**
@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=600&lines=Hi%2C+I+am+Ansh;Passionate+about+clean+code%2C+;performance+optimization%2C+and+design+patterns.)](https://git.io/typing-svg)
+
 
 <center><h4> Continuously learning and applying best practices to design and develop scalable, maintainable software solutions.</h4> </center>
 
