@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me **anshgupta51713@gmail.com**
-- My Website: <a href="https://portfolio-ansh-guptas-projects-93977b3a.vercel.app/"> Link </a>
+- My Website: <a href="https://glowing-frangipane-355553.netlify.app"> Link </a>
 
 
 
