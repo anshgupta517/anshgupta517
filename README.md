@@ -1,3 +1,6 @@
+
+![coderman](https://github.com/user-attachments/assets/cc04ba07-c479-4a3d-91d7-788a515cf0d7)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=600&lines=Hi%2C+I+am+Ansh;Passionate+about+clean+code%2C+;performance+optimization%2C+and+design+patterns.)](https://git.io/typing-svg)
 
 
