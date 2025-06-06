@@ -11,7 +11,8 @@
   📫 How to reach me: <strong>anshgupta51713@gmail.com</strong>
 </p>
 <p align="center">
-  My Portfolio Website: <a href="https://portfolio-ansh-guptas-projects-93977b3a.vercel.app/">Link</a>
+  My Website: <a href="https://portfolio-ansh-guptas-projects-93977b3a.vercel.app/">Link</a>
+  Another website: <a href='https://glowing-frangipane-355553.netlify.app/'>Link</a>
 </p>
 
 <div align="center">
