@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cc04ba07-c479-4a3d-91d7-788a515cf0d7" alt="coderman"/>
-</div>
 
 <div align="center">
 
